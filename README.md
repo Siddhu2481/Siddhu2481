@@ -21,3 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhu2481&" alt="siddhu2481" /></p>
 
+![GitHub Snake dark](https://github.com/Siddhu2481/Siddhu2481/blob/output/github-snake-dark.svg)
