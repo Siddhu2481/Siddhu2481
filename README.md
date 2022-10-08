@@ -30,6 +30,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddhu2481&show_icons=true&locale=en&layout=compact" alt="siddhu2481" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddhu2481&" alt="siddhu2481" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Siddhu2481&theme=nightowl&locale=hi&date_format=j%20M%5B%20Y%5D&sideNums=DD7234&dates=169B12&background=090202&border=0C0202&stroke=23F7E9&ring=DD732B&fire=FF6C15&currStreakNum=2ADFFF&currStreakLabel=F4F3FF&sideLabels=FFFFFF)](https://git.io/streak-stats)
 
 ![GitHub Snake dark](https://github.com/Siddhu2481/Siddhu2481/blob/output/github-snake-dark.svg)
