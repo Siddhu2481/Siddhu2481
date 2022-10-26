@@ -8,7 +8,7 @@
 
 - 🤝 I’m looking for help with **FashionHut**
 
-- 📫 How to reach me **siddharthsharma2481@gml.com**
+- 📫 How to reach me **siddharthsharma2481@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
