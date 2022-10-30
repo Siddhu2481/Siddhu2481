@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **FashionHut**
 
-- 🤝 I’m looking for help with ****
+- 🤝 I’m looking for help with **FashionHut**
 
 - 📫 How to reach me **siddharthsharma2481@gmail.com**
 
